@@ -1,0 +1,12 @@
+.colorPrimary{
+    background-color: #06402b;
+    color: #ffffe3;
+    padding: 0px;
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+.colorSecondary{
+    background-color: #ffffe3;
+}
